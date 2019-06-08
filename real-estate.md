@@ -1,7 +1,7 @@
 ---
 permalink: /real-estate/
 ---
-## Property
+## Real Estate
 
 ### Overview
 
