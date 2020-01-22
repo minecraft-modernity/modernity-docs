@@ -16,9 +16,11 @@ ___
 You can open a bank account by travelling to the bank. Here, you can click on the villager to open the account creation menu.
 
 You can create two types of accounts;
+    
     Checking Accounts
 - Low interest, low fees
 - Money is easily accessible
+    
     Savings Accounts
 - Higher interest, higher fees
 - Money is harder to get to
