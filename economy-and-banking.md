@@ -18,10 +18,10 @@ You can open a bank account by travelling to the bank. Here, you can click on th
 You can create two types of accounts;
     Checking Accounts
 - Low interest, low fees
- - Money is easily accessible
+- Money is easily accessible
     Savings Accounts
 - Higher interest, higher fees
- - Money is harder to get to
+- Money is harder to get to
 
 **TIP:** *You can find locations in the main city (NewPort) by using your GPS! Do `/gps` to get started!*
 
